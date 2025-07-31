@@ -1,7 +1,6 @@
-## First Meeting: July 1st, 2025: 6:00pm Universal Time.
+# First Meeting: July 1st, 2025: 6:00pm Universal Time
 
-
-## Agenda:
+## Agenda
 * Introductions
 * Tutorial on Unix, Shell, Shell Script
 * How to read scientific papers (ADS, Mendeley, arXiv)
@@ -9,12 +8,14 @@
 
 ## Assignments for Week 1
 
-### If you have not already:
+### If you have not already
+
  * Ensure that you have a working version of Python installed on your computer.
    * [This link](https://carpentries.github.io/workshop-template/#python) has a section for downloading the Anaconda version of Python for Mac, Linux, or Windows
  * Finish writing your goals for this program if you did not finish during the session.
 
 ### Assignment 1) Go through the slides for Unix and complete the 2 assignments written there
+
 1. Perform a set of commands mentioned in the slides/python notebook
 2. Complete the Unix Workbench and Data Carpentry workshop on the Unix command shell
 The Unix shell is the basis for scientific computing. By mastering shell commands, you will save
